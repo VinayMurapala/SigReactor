@@ -1,0 +1,17 @@
+
+# Compiled executables
+/sigreactor
+/test_reactor
+/test_suite
+/benchmark_runner
+/benchmark
+
+# Object and library files
+*.o
+*.a
+*.so
+
+# Temporary and editor files
+*~
+*.save
+.vscode/
